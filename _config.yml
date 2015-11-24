@@ -1,0 +1,10 @@
+# Site settings
+title: ohaut - Opensource Home Automation
+email: miguelangel@ajo.es
+description: "Opensource Home AUTomation"
+baseurl: ""
+url: "http://ohaut.github.io"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
