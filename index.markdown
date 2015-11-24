@@ -2,7 +2,6 @@
 layout: post
 ---
 
-
 ## Introduction
 
 The Opensource Home Automation project puts together the building blocks
@@ -65,13 +64,11 @@ Ok, this is the easy way :)
     {% for post in site.posts %}
       <li>
         <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
-        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{
-post.title }}</a>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}
+        </a>
       </li>
     {% endfor %}
   </ul>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend:
-site.baseurl }}">via RSS</a></p>
-
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 </div>
