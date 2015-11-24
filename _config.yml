@@ -3,7 +3,7 @@ title: ohaut - Opensource Home Automation
 email: miguelangel@ajo.es
 description: "Opensource Home AUTomation"
 baseurl: ""
-url: "http://ohaut.github.io"
+url: "http://www.ohaut.org"
 
 # Build settings
 markdown: kramdown
