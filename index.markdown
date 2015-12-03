@@ -23,8 +23,17 @@ The [photon project][photon_url] is the first project to be released.
 It's a 3 Channel LED dimmer, capable of sustaining up to 5 to 48V
 with 2A to 5A per channel. (Real specs still to be determined)
 
-[photon_url]: http://github.com/ohaut/photon
+### Release 1.00B
+* [schematics][photon_schematics]
+* [gerbers][photon_gerbers]
+* [bill of materials][photon_bom]
 
+[photon_url]: http://github.com/ohaut/photon
+[photon_schematics]: https://github.com/ohaut/photon/blob/master/hardware/microdimmer/pcb/releases/1.00B/schematics.pdf
+[photon_gerbers]: https://raw.githubusercontent.com/ohaut/photon/master/hardware/microdimmer/pcb/releases/1.00B/gerbers.zip
+[photon_bom]: https://raw.githubusercontent.com/ohaut/photon/master/hardware/microdimmer/pcb/releases/1.00B/bill-of-materials.csv
+
+### Photon video
 <iframe src="//player.vimeo.com/video/146833981" width="800" height="469"
 frameborder="0" webkitallowfullscreen mozallowfullscreen
 allowfullscreen></iframe>
