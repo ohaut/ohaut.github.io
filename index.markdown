@@ -18,20 +18,20 @@ over the Air (wireless updates) just one click away in the Arduino IDE.
 [esp8266_arduino]: https://github.com/esp8266/Arduino
 [openhab_url]:     http://www.openhab.org
 
-## Photon project
-The [photon project][photon_url] is the first project to be released.
+## Ray project
+The [ray project][ray_url] is the first project to be released.
 It's a 3 Channel LED dimmer, capable of sustaining up to 5 to 48V
 with 2A to 5A per channel. (Real specs still to be determined)
 
 ### Release 1.00B
-* [schematics][photon_schematics]
-* [gerbers][photon_gerbers]
-* [bill of materials][photon_bom]
+* [schematics][ray_schematics]
+* [gerbers][ray_gerbers]
+* [bill of materials][ray_bom]
 
-[photon_url]: http://github.com/ohaut/photon
-[photon_schematics]: https://github.com/ohaut/photon/blob/master/hardware/microdimmer/pcb/releases/1.00B/schematics.pdf
-[photon_gerbers]: https://raw.githubusercontent.com/ohaut/photon/master/hardware/microdimmer/pcb/releases/1.00B/gerbers.zip
-[photon_bom]: https://raw.githubusercontent.com/ohaut/photon/master/hardware/microdimmer/pcb/releases/1.00B/bill-of-materials.csv
+[ray_url]: http://github.com/ohaut/ray
+[ray_schematics]: https://github.com/ohaut/ray/blob/master/hardware/microdimmer/pcb/releases/1.00B/schematics.pdf
+[ray_gerbers]: https://raw.githubusercontent.com/ohaut/ray/master/hardware/microdimmer/pcb/releases/1.00B/gerbers.zip
+[ray_bom]: https://raw.githubusercontent.com/ohaut/ray/master/hardware/microdimmer/pcb/releases/1.00B/bill-of-materials.csv
 
 ### Photon video
 <iframe src="//player.vimeo.com/video/146833981" width="800" height="469"
