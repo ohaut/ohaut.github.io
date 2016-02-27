@@ -33,7 +33,7 @@ with 2A to 5A per channel. (Real specs still to be determined)
 [ray_gerbers]: https://raw.githubusercontent.com/ohaut/ray/master/hardware/microdimmer/pcb/releases/1.00B/gerbers.zip
 [ray_bom]: https://raw.githubusercontent.com/ohaut/ray/master/hardware/microdimmer/pcb/releases/1.00B/bill-of-materials.csv
 
-### Photon video
+### Ray video
 <iframe src="//player.vimeo.com/video/146833981" width="800" height="469"
 frameborder="0" webkitallowfullscreen mozallowfullscreen
 allowfullscreen></iframe>
